@@ -1,6 +1,6 @@
 # note-creator
 
-An app for creating notes, handle saving and updating data by MongoLab.
+An ReactJS app for creating notes, handle saving and updating data by MongoLab.
 
 Link: https://examplet2.herokuapp.com/
 
