@@ -8,5 +8,7 @@ Running locally or remote deployment with Meteor.
 https://www.meteor.com/install
 
 Commands:
+
 meteor npm install
+
 meteor
